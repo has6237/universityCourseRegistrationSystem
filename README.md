@@ -1,4 +1,4 @@
-Course Registration System — Technical Description
+Course Registration System — Technical Description.
 This project implements a web-based course registration system built with PHP and MySQL to facilitate efficient management of student course enrollments within an academic institution. The system follows a client-server architecture with a MySQL relational database backend and PHP-driven server-side logic.
 System Components and Features:
 •	User Authentication & Session Management:
